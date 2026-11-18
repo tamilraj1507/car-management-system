@@ -1,0 +1,6 @@
+{
+  "name": "Meridian DMS",
+  "description": "Dealership management system for vehicle inventory, sales pipeline, customer CRM, test-drive scheduling, and showroom operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
